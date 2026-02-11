@@ -9,5 +9,5 @@ jobs:
       - name: Deploy (Local) con Sail
         run: |
           set -e
-          cd /Documentos/DAW/Practica
+          cd /home/panajoshua/Documentos/DAW/Practica
           git pull
