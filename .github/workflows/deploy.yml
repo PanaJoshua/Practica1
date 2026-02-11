@@ -1,7 +1,7 @@
 name: Deploy Laravel Sail (Local)
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
 jobs:
   deploy:
     runs-on: self-hosted
